@@ -1,0 +1,50 @@
+# Ignore node_modules folder in the API directory
+api/node_modules/
+
+# Ignore FLUTTER stuff
+
+
+# Miscellaneous
+liste/*.class
+liste/*.log
+liste/*.pyc
+liste/*.swp
+liste/.DS_Store
+liste/.atom/
+liste/.buildlog/
+liste/.history
+liste/.svn/
+liste/migrate_working_dir/
+
+# IntelliJ related
+liste/*.iml
+liste/*.ipr
+liste/*.iws
+liste/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+liste/**/doc/api/
+liste/**/ios/Flutter/.last_build_id
+liste/.dart_tool/
+liste/.flutter-plugins
+liste/.flutter-plugins-dependencies
+liste/.packages
+liste/.pub-cache/
+liste/.pub/
+liste/build/
+
+# Symbolication related
+liste/app.*.symbols
+
+# Obfuscation related
+liste/app.*.map.json
+
+# Android Studio will place build artifacts here
+liste/android/app/debug
+liste/android/app/profile
+liste/android/app/release
