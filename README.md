@@ -117,9 +117,9 @@ The app will be launched on your connected device or emulator.
 
 ### Screenshots
 
-![Application screenshot](https://ibb.co/NxDVV7f)
+![Application screenshot](https://i.ibb.co/Y2nRRbJ/Capture-d-cran-2023-10-15-230631.png)
 
-![Application screenshot edit item](https://ibb.co/VHQ1FQg)
+![Application screenshot edit item](https://i.ibb.co/Xy3Qn37/image-2023-10-15-230936505.png)
 
 ### Dependencies
 
